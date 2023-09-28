@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 86404fb0a1a82e1448474c3b46e5185c, type: 3}
+  m_Name: Question 5
+  m_EditorClassIdentifier: 
+  question: "T\u1EA1i sao Camera l\u1EA1i ph\u1EA3i c\u1ED9ng th\xEAm new Vector
+    3(0f, 0f, -10f) ?"
+  answer:
+  - "V\xEC n\xF3 kh\xF4ng chi\u1EBFu \u0111\u01B0\u1EE3c"
+  - "V\xEC n\u1EBFu kh\xF4ng c\u1ED9ng th\xEAm th\xEC sai"
+  - "V\xEC nh\u01B0 v\u1EADy m\u1EDBi b\u1EA3o \u0111\u1EA3m Camera lu\xF4n c\xE1ch
+    \u0111\u1ED1i t\u01B0\u1EE3ng 1 kho\u1EA3ng nh\u1EA5t \u0111\u1ECBnh (\u1EDF
+    \u0111\xE2u l\xE0 b\u1EB1ng 10)"
+  - "V\xEC th\u1EBF n\xF3 m\u1EDBi chi\u1EBFu tr\u01B0\u1EDBc m\u1EB7t m\xECnh"
+  correctAnswerIndex: 2
